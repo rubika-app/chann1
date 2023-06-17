@@ -1,0 +1,9 @@
+[
+
+  {
+
+    "join": "{\"method\":\"joinChannelAction\",\"input\":{\"channel_guid\":\"c0KUkc052ce33dbbaec6d3b42c6782c9\",\"action\":\"Join\"},\"client\":{\"app_name\":\"Main\",\"app_version\":\"4.1.11\",\"platform\":\"Web\",\"package\":\"web.rubika.ir\",\"lang_code\":\"fa\"}}"
+
+  }
+
+]
